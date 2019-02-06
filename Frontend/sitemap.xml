@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://yacm.io/index.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yacm.io/images/5c4de53920152c19834a97fd-crop-u106.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yacm.io/contacts.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yacm.io/images/5c4de53920152c19834a97fd-crop-u244.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yacm.io/register.html</loc>
+    <lastmod>2019-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yacm.io/images/5c4de53920152c19834a97fd-crop-u298.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+5c4cab5f7b63c819a062f91b
+/*if (id === 'special'){
+		res.status(200).json({
+			message: 'You discovered the special ID',
+			id: id
+		});
+	} 
+	else 
+	{
+		res.status(200).json({
+			message: 'You passed an ID'
+		});
+	}
+		*/
+
+			/*const product = {
+		name: req.body.name,
+		price: req.body.price
+	};*/
+	
+
+		//if (docs.length >= 0){
+		res.status(200).json(response);
+		//} else {
+			//res.status(404).json({
+				//message: 'No entries found'
+		//	});

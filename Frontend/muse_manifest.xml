@@ -1,0 +1,34 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yacm.io" resolutions="1x" timestamp="1548611300279">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="229324118" ref="index"/>
+    <file name="register.css" crc="105272648" ref="register"/>
+    <file name="contacts.css" crc="3934801328" ref="contacts"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacts:register"/>
+    <file name="museutils.js" crc="340535759" ref="index:contacts:register"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacts:register"/>
+    <file name="museconfig.js" crc="310584261" ref="index:contacts:register"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contacts:register"/>
+    <file name="require.js" crc="7928878" ref="index:contacts:register"/>
+  </folder>
+  <folder name="images">
+    <file name="5c4de53920152c19834a97fd-crop-u106.png" crc="3948438758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u145.png" crc="4035515941" ref="index"/>
+    <file name="u145-r.png" crc="121754628" ref="index"/>
+    <file name="5c4de53920152c19834a97fd-crop-u244.png" crc="3948438758" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="5c4de53920152c19834a97fd-crop-u298.png" crc="3948438758" seo="true" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="u313.png" crc="4113349988" ref="register"/>
+    <file name="u313-r.png" crc="4262244317" ref="register"/>
+  </folder>
+  <file name="index.html" crc="518276280" seo="true" mt="1548610542933" redirect="true"/>
+  <file name="contacts.html" crc="3777850384" seo="true" mt="1548610815043" redirect="true"/>
+  <file name="register.html" crc="4050163273" seo="true" mt="1548611168255" redirect="true"/>
+</manifest>
